@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbd8c5e-2382-4ad9-9d75-4736b35988be" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/center/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lynda/listing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/center/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/center/main.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,8 +74,8 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/center/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="504">
+              <caret line="36" column="138" selection-start-line="36" selection-start-column="138" selection-end-line="36" selection-end-column="138" />
             </state>
           </provider>
         </entry>
@@ -85,8 +83,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/center/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+            <state relative-caret-position="-441">
+              <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -143,8 +141,8 @@
         <option value="$PROJECT_DIR$/lynda/forms/index.html" />
         <option value="$PROJECT_DIR$/lynda/forms/form.php" />
         <option value="$PROJECT_DIR$/lynda/listing.php" />
-        <option value="$PROJECT_DIR$/center/main.html" />
         <option value="$PROJECT_DIR$/center/main.css" />
+        <option value="$PROJECT_DIR$/center/main.html" />
       </list>
     </option>
   </component>
@@ -182,7 +180,7 @@
       <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/shapefile" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
@@ -248,12 +246,12 @@
       <updated>1530867406904</updated>
       <workItem from="1530867417598" duration="9310000" />
       <workItem from="1531137304240" duration="1879000" />
-      <workItem from="1531155744414" duration="16318000" />
+      <workItem from="1531155744414" duration="19436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27507000" />
+    <option name="totallyTimeSpent" value="30625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
@@ -534,15 +532,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/center/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="504">
+          <caret line="36" column="138" selection-start-line="36" selection-start-column="138" selection-end-line="36" selection-end-column="138" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/center/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        <state relative-caret-position="-441">
+          <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
         </state>
       </provider>
     </entry>
