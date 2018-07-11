@@ -161,3 +161,7 @@ body{
 .kids2{
     width: 450px;
 }
+.arrowBox ul li{
+    list-style-type: none;
+    text-align: left;
+}
