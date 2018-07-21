@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbd8c5e-2382-4ad9-9d75-4736b35988be" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lynda/book.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/center/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/center/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lynda/book.php" beforeDir="false" afterPath="$PROJECT_DIR$/lynda/book.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,8 +64,8 @@
       <file leaf-file-name="book.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lynda/book.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
+            <state relative-caret-position="442">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -186,7 +182,7 @@
       <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/shapefile" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1036" />
     <option name="height" value="735" />
@@ -259,12 +255,12 @@
       <workItem from="1531137304240" duration="1879000" />
       <workItem from="1531155744414" duration="21302000" />
       <workItem from="1531997440069" duration="1766000" />
-      <workItem from="1532086292352" duration="1987000" />
+      <workItem from="1532086292352" duration="2943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36244000" />
+    <option name="totallyTimeSpent" value="37200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -650,8 +646,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lynda/book.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
+        <state relative-caret-position="442">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -1,18 +1,28 @@
 <?php
-$looking = isset($_GET['title']) || isset($_GET['author']);
-?>
-<!DOCTYPE html>
+setcookie('username', 'Mark');
+if(isset($_COOKIE['username'])){
+    echo "Your name is " .  $_COOKIE['username'];
+}else{
+    echo 'Cookie is not set';
+}
+
+if (isset($_GET['title']) || isset($_GET['author']))
+{
+echo '<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <title>Bookstore</title>
 </head>
 <body>
-<p>You lookin' for a book? <?php echo (int) $looking; ?></p>
+
 <p>The book you are looking for is</p>
 <ul>
-    <li><b>Title</b>: <?php echo $_GET['title']; ?></li>
-    <li><b>Author</b>: <?php echo $_GET['author']; ?></li>
-</ul>
+    <li><b>Title</b>:' .  $_GET['title'] . '</li>' .
+    '<li><b>Author</b>:' . $_GET['author'] .
+'</ul>
 </body>
-</html>
+</html>';
+    }else{
+    echo '<br>Are you looking for a book?';
+}
