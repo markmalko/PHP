@@ -91,6 +91,7 @@ body{
     margin-left: 882px;
     box-sizing: border-box;
     color: #ffffff;
+    margin-top: 1px;
 }
 .infobox:after, .infobox:before{
     position: absolute;
@@ -130,7 +131,7 @@ body{
 .arrowBox{
     margin-top: 15%;
     width: 200px;
-    height:396px;
+    height:397px;
     background-color: #37C0AA;
     position: absolute;
     top:0;
