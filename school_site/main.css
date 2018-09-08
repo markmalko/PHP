@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600,700&subset=cyrillic');
+*{
+    box-sizing: border-box;
+}
+html{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+header{
+    width:100%;
+    background-color: #355f7c;
+    padding: 1%;
+    position: relative;
+}
+
+header #logo{
+    width:30%;
+    float: left;
+}
+header #page_title{
+    width: 70%;
+    font-family: 'Oswald', sans-serif;
+    color:#ffffff;
+}
+header #logo img{
+    width:60%;
+    margin-left: 35%;
+    margin-top: 5%;
+    border: 1px solid #ffffff;
+    border-radius: 10px 10px;
+}
+nav{
+    margin-top: 3%;
+    margin-left: 8%;
+    width: 100%;
+}
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-left: 3%;
+
+}
+nav ul li a{
+
+}
+}
+#top_menu{
+    display: inline;
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+#top_menu > li{
+    display: inline-block;
+
+}
+#top_menu > li > a{
+    text-decoration: none;
+    color:#ffffff;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    transition: background-color 0.25s, color 0.15s;
+}
+#top_menu > li > a:hover .inner_menu{
+    color: white;
+    background-color: #a7fc00;
+}
+#top_menu > li:hover > ul{
+    visibility: visible;
+    opacity: 1;
+}
+.inner_menu{
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    list-style: none;
+    padding-left: 0;
+    text-align: left;
+    white-space: nowrap;
+    background-color: #355f7c;
+    min-height: 10%;
+    color:#ffffff;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    -moz-column-count: 3; /* Firefox */
+    -webkit-column-count: 3; /* Safari and Chrome */
+    column-count: 3;
+    width: 100%;
+    transition: all .3s ease .15s;
+    z-index: 3;
+}
+
+.inner_menu > li > a{
+    width: 100%;
+    display: block;
+    padding: 5px 10px;
+    color: inherit;
+    text-decoration: none;
+}
+.inner_menu > li > a:hover{
+    color: white;
+    background-color: #a7fc00;
+}
+#wrapper img{
+    width: 100%;
+}
+
+#slides {
+    position: relative;
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+.slide {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    z-index: 1;
+
+    -webkit-transition: opacity 1s;
+    -moz-transition: opacity 1s;
+    -o-transition: opacity 1s;
+    transition: opacity 1s;
+}
+
+.showing {
+    opacity: 1;
+    z-index: 2;
+}
