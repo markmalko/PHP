@@ -62,8 +62,8 @@ nav ul li a{
     transition: background-color 0.25s, color 0.15s;
 }
 #top_menu > li > a:hover .inner_menu{
-    color: white;
-    background-color: #a7fc00;
+    color: #355f7c;
+    background-color: white;
 }
 #top_menu > li:hover > ul{
     visibility: visible;
@@ -101,8 +101,8 @@ nav ul li a{
     text-decoration: none;
 }
 .inner_menu > li > a:hover{
-    color: white;
-    background-color: #a7fc00;
+    color: #355f7c;
+    background-color: white;
 }
 #wrapper img{
     width: 100%;
@@ -134,4 +134,24 @@ nav ul li a{
 .showing {
     opacity: 1;
     z-index: 2;
+}
+.clear{
+    clear:both;
+}
+#middle_menu{
+    margin-top: 35%;
+    width:100%;
+}
+#middle_menu li a{
+    width: 15%;
+    height: 20%;
+}
+#middle_menu li{
+    display: inline;
+}
+#middle_menu li a img{
+    width:15%;
+}
+#middle_menu li a:hover{
+    border: 1px solid #355f7c;
 }
