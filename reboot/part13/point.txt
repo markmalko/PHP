@@ -1,0 +1,9 @@
+<?php
+class Point{
+	public x;
+	public y;
+}
+$decart = new Point;
+$decart->x = 1;
+$decart->y = 1;
+serialize(Point);
