@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cb74734-d1d3-4470-89d3-f7a41b83ae16" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/part15/task1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part16/1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part15/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/part15/3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part16/2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part17/1.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,11 +55,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/part16/1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part16/2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/part17/1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -79,6 +95,8 @@
         <option value="$PROJECT_DIR$/part15/3.php" />
         <option value="$PROJECT_DIR$/part15/task1.php" />
         <option value="$PROJECT_DIR$/part16/1.php" />
+        <option value="$PROJECT_DIR$/part16/2.php" />
+        <option value="$PROJECT_DIR$/part17/1.php" />
       </list>
     </option>
   </component>
@@ -113,6 +131,11 @@
               <item name="reboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="reboot" type="462c0819:PsiDirectoryNode" />
               <item name="part16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reboot" type="462c0819:PsiDirectoryNode" />
+              <item name="part17" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541579281108</updated>
-      <workItem from="1541579284509" duration="5333000" />
+      <workItem from="1541579284509" duration="5711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5333000" />
+    <option name="totallyTimeSpent" value="5711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -223,6 +246,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part16/2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part17/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
