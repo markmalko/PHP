@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bbd8c5e-2382-4ad9-9d75-4736b35988be" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/school_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school_site/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/school_site/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="3bbd8c5e-2382-4ad9-9d75-4736b35988be" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +153,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reboot" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -194,14 +190,16 @@
       <workItem from="1540503579068" duration="38000" />
       <workItem from="1540503836998" duration="81000" />
       <workItem from="1541020148355" duration="106000" />
+      <workItem from="1541579232200" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54814000" />
+    <option name="totallyTimeSpent" value="54843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18081991" />
       <window_info anchor="bottom" id="TODO" order="6" />
